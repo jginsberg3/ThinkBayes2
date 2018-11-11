@@ -54,3 +54,4 @@ docs/_build/
 
 # JG additions
 .DS_Store
+jgfiles/*.png
