@@ -136,3 +136,5 @@ for ob in [30, 60, 90]:
     suite2.Update(ob)
 interval_95 = Percentile(suite2, 5), Percentile(suite2, 95)
 print('95% credible interval: {}'.format(interval_95))
+
+
